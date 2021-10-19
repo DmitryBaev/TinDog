@@ -133,6 +133,12 @@ p {
   padding: 3% 2%;
 }
 
+#cta {
+  padding: 7% 15%;
+  font-family: "Montserrat"
+  text-align: center;
+}
+
 @media (max-width: 900px) {
 
   #title {
