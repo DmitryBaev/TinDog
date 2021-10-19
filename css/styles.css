@@ -133,7 +133,7 @@ p {
   padding: 3% 2%;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1320px) {
   .title-image {
     position: static;
     transform: rotate(0deg);
