@@ -1,5 +1,9 @@
 body {
+
+
+
   font-family: 'Montserrat', sans-serif;
+
 }
 
 #title {
@@ -52,8 +56,13 @@ h1 {
   transform: rotate(25deg);
 }
 
+#features {
+  text-align: center;
+}
+
 .features-icon {
   color: #ef8172;
+  padding: 0 0 1rem;
 }
 
 .features-icon:hover {
@@ -62,10 +71,11 @@ h1 {
 
 .features-head {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: bold;
 }
 
 .features-paragraph {
   color: #8f8f8f;
+  padding: 0 2rem;
 }
