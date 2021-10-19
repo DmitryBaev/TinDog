@@ -132,3 +132,14 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+@media (max-width: 1300px) {
+  .title-image {
+    position: static;
+    transform: rotate(0deg);
+  }
+
+  .custom-image {
+    position: static;
+  }
+}
