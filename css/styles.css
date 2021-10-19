@@ -64,10 +64,10 @@ p {
 /* Title Image */
 
 .title-image {
-  width: 13%;
+  width: 400px;
   transform: rotate(25deg);
   position: absolute;
-  margin-left: 10%;
+  margin-left: 3%;
 }
 
 #features {
