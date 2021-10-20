@@ -147,6 +147,10 @@ p {
   padding: 0% 3% 2%;
 }
 
+#footer {
+  padding: 7% 15%;
+}
+
 @media (max-width: 900px) {
 
   #title {
