@@ -140,6 +140,10 @@ p {
   color: #fff;
 }
 
+.cta-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
 
 
 #footer {
